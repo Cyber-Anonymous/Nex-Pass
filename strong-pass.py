@@ -1,5 +1,5 @@
 #Coded by Sajjad.
-#https://github.com/cyber-anonymous
+#https://www.github.com/Cyber-Anonymous
 import os
 import sys
 
