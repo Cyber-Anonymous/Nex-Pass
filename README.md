@@ -1,5 +1,5 @@
 
-<h1 Align="Center"> Strong-Pass </h1>
+<h1 Align="Center"> Strong-Pass v1.0 </h1>
 
 ### About Strong-Pass tool
 Strong-Pass is generates a memorable strong password.
